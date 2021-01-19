@@ -16,6 +16,11 @@
 		<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		<Item Name="Show.vi" Type="VI" URL="../Show.vi"/>
 		<Item Name="Picture.lvclass" Type="LVClass" URL="../Picture.lvclass"/>
+		<Item Name="Coords.ctl" Type="VI" URL="../Coords.ctl"/>
+		<Item Name="Get Pixels Below.vi" Type="VI" URL="../Accessors/Get Pixels Below.vi"/>
+		<Item Name="Free Pixels with Chances.vi" Type="VI" URL="../Free Pixels with Chances.vi"/>
+		<Item Name="Where to Fall.vi" Type="VI" URL="../Where to Fall.vi"/>
+		<Item Name="Move Pixel.vi" Type="VI" URL="../Move Pixel.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Random Number - Within Range__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/numeric/numeric.llb/Random Number - Within Range__ogtk.vi"/>
@@ -39,6 +44,7 @@
 				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
